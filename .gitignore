@@ -64,3 +64,28 @@ yarn-error.log
 
 # testing
 /coverage
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+logs/
+
+# Build artifacts
+android/app/build/
+ios/build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store

@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>ExplicitContentScanner</string>
+	<string>Pupulik</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -34,6 +34,12 @@
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pupulik needs access to your photo library to scan for explicit content and help you secure your private photos.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Pupulik needs camera access to scan new photos for explicit content protection.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Pupulik needs to save secured photos to your photo library.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
